@@ -4,11 +4,6 @@
     font-family: 'Roboto', sans-serif;
 }
 
-/* body {
-    text-align: center;
-    display: flex;
-} */
-
 .main-head {
     background-color: #1F2937;
     padding-bottom: 50px;
@@ -126,5 +121,24 @@ img {
 
 .quote-section {
     text-align: center;
-    
+    width: 100%;
+    background-color: #E5E7EB;
+    padding: 100px 0;
 }
+
+.quote-text {
+    font-weight: 300;
+    font-style: italic;
+    font-size: 36px;
+    color: #1F2937;
+    text-align: center;
+}
+
+.author {
+    margin-top: 30px;
+    text-align: right;
+    font-weight: 900;
+    margin-right: 250px;
+}
+
+/* CTA Section */
