@@ -93,3 +93,38 @@ a, p {
     color: #E5E7EB;
     font-size: 18px;
 }
+
+/* Info Section */
+
+.info-header {
+    margin-top: 80px;
+    font-weight: 900;
+    font-size: 36px;
+    color: #1F2937;
+    text-align: center;
+}
+
+.image-box {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
+
+.figcaption {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 200px;
+}
+
+/* Quote Section */
+
+.quote-section {
+    text-align: center;
+    
+}
